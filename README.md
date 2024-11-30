@@ -23,3 +23,12 @@ The stock market data analyzed in this project is sourced from:
 - **Finviz**: For financial ratios and market insights.
 
 ---
+## 🌐 Dashboard Access
+
+Explore the interactive dashboards built for this project:
+
+- [Multi_Factor Stock Market Analysis Dashboard](https://docs.google.com/presentation/d/1e-1FPFeqzH5wcZZKSGeJEYnL7xTzSmgYrwQ3Ke5nRl4/edit?usp=sharing)
+
+These dashboards provide visual insights into stock growth, profitability, risk, and market trends. Hosted on [Google Looker Studio](https://lookerstudio.google.com/).
+
+---
